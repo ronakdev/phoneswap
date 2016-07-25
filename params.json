@@ -1,0 +1,6 @@
+{
+  "name": "Phone Swap",
+  "tagline": "Powerful Image Processing. In a hilarious way.",
+  "body": "###Features\r\n* Puts an image onto all blank phone screens\r\n* Powerful Image Processing Using OpenCV\r\n* Easy to compile (Using CMake)\r\n\r\n###Contributors\r\n* Ronak Shah\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
